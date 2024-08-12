@@ -1,3 +1,3 @@
 mouse-controller-app
 
-Try with VsCode
+Try with VsCode or Eclipse
